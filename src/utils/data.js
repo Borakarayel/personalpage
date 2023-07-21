@@ -23,32 +23,36 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
+  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
   
   "We use process design to create digital products. Besides that also help their business",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "The Odin Project, Self-Employed",
+    tenure: "Aug 2022 - Present",
+    role: "Frontend Web Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "The Odin Project provides an open-source coding curriculum that is completely self-paced and online. Various programming languages learned during the curriculum are reinforced with projects.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Online Bilgi Hizmetleri, Full-time",
+    tenure: "May 2016 - Jun 2022",
+    role: "Sales Executive",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "The role involves various tasks such as identifying customers' needs and uncovering new sales and subscription opportunities. It also includes managing the renewal processes for existing subscriptions and handling proposal processes. This requires conducting regular web-based and on-site meetings with universities, government agencies, companies, and public administrations in the Aegean and Marmara regions, with the aim of promoting and coordinating user training. Additionally, there is a focus on promoting new products in collaboration with the marketing team and assisting in organizing biannual high-participation meetings with partners. The position also entails generating monthly, quarterly, and annual sales reports, as well as forwarding user requests, complaints, and technical problems to the technical department and overseeing the resolution process." },
+  {
+    place: "Doğan TV Holding, Full-time",
+    tenure: "May 2010 - Dec 2014",
+    role: "Digital Archivist",
+    detail:"Answering the specific digital video requests received from inside and outside the organization. Data entry, classification, archiving of various audio-visual recordings in the online system and keeping archived records ready to use."
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+    place: "Istanbul University, Full-time",
+    tenure: "Jan 2009 - May 2010",
+    role: "Librarian",
+    detail:"Reclassification of the library collection and completion of missing bibliographic identities. Creating catalog records of the library collection. Helping to improve library user services."
   },
 ];
 
@@ -73,49 +77,7 @@ export const comments = [
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
+  }
 ];
 
 export const sliderSettings = {

@@ -32,13 +32,13 @@
     left: 45%;
     .line{
         position: absolute;
-        height: 92%;
+        height: 100%;
         width: 2px;
         background-image: linear-gradient(black 33%, rgba(255, 255, 255, 0) 0%);
         background-position: right;
-        background-size: 2px 30px;
+        background-size: 2px 26px;
         background-repeat: repeat-y;
-        left: 48%;
+        left: 45%;
         z-index: 1;
         border-radius: 5px;
     }
@@ -49,8 +49,8 @@
         .circle {
             border-radius: 50%;
             background: black;
-            width: 1.2rem;
-            height: 1.2rem;
+            width: 1.1rem;
+            height: 1.1rem;
         }
     }
 }
