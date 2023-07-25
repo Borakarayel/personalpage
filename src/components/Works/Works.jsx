@@ -37,6 +37,11 @@ const Works = () => {
                 <div className={css.role}>
                   <h1>{exp.role}</h1>
                   <p>{exp.detail}</p>
+                  <p>{exp.detail1}</p>
+                  <p>{exp.detail2}</p>
+                  <p>{exp.detail3}</p>
+                  <p>{exp.detail4}</p>
+                  <p>{exp.detail5}</p>
                 </div>
               </motion.div>
             );

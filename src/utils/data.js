@@ -24,35 +24,58 @@ export const projectExperience = [
 
 export const WhatDoIHelp = [
   "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  
+
   "We use process design to create digital products. Besides that also help their business",
 ];
 
 export const workExp = [
   {
-    place: "The Odin Project, Self-Employed",
+    place: "Career Break, Professional Development",
     tenure: "Aug 2022 - Present",
-    role: "Frontend Web Developer",
+    role: "Web Developer",
     detail:
-      "The Odin Project provides an open-source coding curriculum that is completely self-paced and online. Various programming languages learned during the curriculum are reinforced with projects.",
+      "• Took an intentional pause to focus on learning web development skills like Computer Science, Responsive Web Design, HTML, CSS, JavaScript, and React.",
+    detail1:
+      "• Completed The Odin Project which is an open source coding curriculum that is entirely self-paced and online. Various programming tools used during the curriculum are reinforced with projects. These applications have been published on GitHub.",
+    detail2:
+      "• Proceed to develop various individual projects and improve my knowledge of JavaScript Frameworks.",
   },
   {
     place: "Online Bilgi Hizmetleri, Full-time",
     tenure: "May 2016 - Jun 2022",
     role: "Sales Executive",
     detail:
-      "The role involves various tasks such as identifying customers' needs and uncovering new sales and subscription opportunities. It also includes managing the renewal processes for existing subscriptions and handling proposal processes. This requires conducting regular web-based and on-site meetings with universities, government agencies, companies, and public administrations in the Aegean and Marmara regions, with the aim of promoting and coordinating user training. Additionally, there is a focus on promoting new products in collaboration with the marketing team and assisting in organizing biannual high-participation meetings with partners. The position also entails generating monthly, quarterly, and annual sales reports, as well as forwarding user requests, complaints, and technical problems to the technical department and overseeing the resolution process." },
+      "• Responsible for the sales, subscription, promotion, and training of digital content such as databases, APIs, services, and software of the world's leading publishers and companies such as Clarivate(formerly known as Thomson Reuters), IEEE, OECD, ASTM, BMJ, CAB, and IHS.",
+    detail1:
+      "• Annual new sales and renewal quotas were followed. Monthly, quarterly, and yearly sales reports were prepared and presented to the management and partners.",
+    detail2:
+      "• Online and on-site meetings were held with public and private universities, government agencies, private companies, and public administrations to provide training on existing products and promote new products.",
+    detail3:
+      "• Promotional campaigns were prepared in coordination with the marketing team to announce new developments in products. Assisted in organizing high-participation meetings held once every two years with the support of partners.",
+    detail4:
+      "• Took an active and productive lead role in the solution processes of users' requests, complaints, and technical problems.",
+    detail5:
+      "• The addition of new updates and SEO details was coordinated with the agency that manages the company website, in line with the management's requests.",
+  },
   {
     place: "Doğan TV Holding, Full-time",
     tenure: "May 2010 - Dec 2014",
     role: "Digital Archivist",
-    detail:"Answering the specific digital video requests received from inside and outside the organization. Data entry, classification, archiving of various audio-visual recordings in the online system and keeping archived records ready to use."
+    detail:
+      "• Ensured data entry, classification, and disk management of the video clips on the media asset management software that is used by the entire channel.",
+    detail1:
+      "• Answered the video clip requests from various program departments, especially the news department.",
+    detail2:
+      "• Ensured coordination of the ingestion of video recordings into the media asset management software.",
   },
   {
     place: "Istanbul University, Full-time",
     tenure: "Jan 2009 - May 2010",
     role: "Librarian",
-    detail:"Reclassification of the library collection and completion of missing bibliographic identities. Creating catalog records of the library collection. Helping to improve library user services."
+    detail:
+      "• Reclassification of the library collection and completing missing bibliographic identities.",
+    detail1:
+      "• Creating catalog records of the library collection. Helping to improve library user services.",
   },
 ];
 
@@ -77,7 +100,7 @@ export const comments = [
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     img: "./people2.png",
-  }
+  },
 ];
 
 export const sliderSettings = {
