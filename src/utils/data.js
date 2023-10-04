@@ -1,31 +1,32 @@
 import { HiOutlineDesktopComputer } from "react-icons/hi";
 import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
+
 export const projectExperience = [
   {
     name: "Website Design",
-    projects: 76,
+    projects: 10,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "Mobile App Design",
-    projects: 63,
+    projects: 20,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
     name: "Brand Identity",
-    projects: 47,
+    projects: 30,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
+  "I can help professionals, businesses and organizations develop and maintain visually appealing, functional, and user-friendly websites and web applications.",
 
-  "We use process design to create digital products. Besides that also help their business",
+  "I specialize in crafting websites and applications that not only look great but also work effortlessly. Take a tour of my work and let's turn your digital ideas into reality!",
 ];
 
 export const workExp = [

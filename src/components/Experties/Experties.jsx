@@ -13,7 +13,7 @@ const Experties = () => {
       viewport={{ once: false, amount: 0.25 }}
       className={css.wrapper}
     >
-       <a className="anchor" id="experties"></a>
+      <a className="anchor" id="experties"></a>
       <div
         className={`paddings yPaddings flexCenter innerWidth ${css.container}`}
       >
@@ -30,7 +30,7 @@ const Experties = () => {
                 </div>
                 <div>
                   <span>{exp.name}</span>
-                  <span className="secondaryText">{exp.projects}</span>
+                  <span className="secondaryText">{}</span>
                 </div>
               </motion.div>
             );
@@ -49,12 +49,12 @@ const Experties = () => {
           })}
           <div className={`flexCenter ${css.stats}`}>
             <div className={`flexCenter ${css.stat}`}>
-              <span className="primaryText">285+</span>
-              <span className="secondaryText">Project Completed</span>
+              <span className="primaryText">20+</span>
+              <span className="secondaryText">Projects Completed</span>
             </div>
             <div className={`flexCenter ${css.stat}`}>
-              <span className="primaryText">195+</span>
-              <span className="secondaryText">Happy Clients</span>
+              <span className="primaryText">More Projects</span>
+              <span className="secondaryText">On The Way!</span>
             </div>
           </div>
         </motion.div>
